@@ -1,0 +1,15 @@
+[submodule "Random-Quote-Generator"]
+	path = Random-Quote-Generator
+	url = https://github.com/Jacobhd/Random-Quote-Generator
+[submodule "List-Pagination-and-Filtering"]
+	path = List-Pagination-and-Filtering
+	url = https://github.com/Jacobhd/List-Pagination-and-Filtering
+[submodule "Interactive-Form"]
+	path = Interactive-Form
+	url = https://github.com/Jacobhd/Interactive-Form
+[submodule "OOP-Game-Show-App"]
+	path = OOP-Game-Show-App
+	url = https://github.com/Jacobhd/OOP-Game-Show-App
+[submodule "Public-API-Request"]
+	path = Public-API-Request
+	url = https://github.com/Jacobhd/Public-API-Request
